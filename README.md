@@ -39,6 +39,7 @@ UART communication for GPS integration
 Git/GitHub for version control
 
 🏗️ Milestones
+
 ✅ Milestone 1
 Flash code to the TM4C123G using Keil.
 
