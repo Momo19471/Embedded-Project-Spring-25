@@ -1,5 +1,6 @@
 # Embedded-Project-Spring-25
 Project Overview
+
 This project was developed for the CSE 211s - Introduction to Embedded Systems [Spring 2025] course at the Faculty of Engineering, Computer and Systems Engineering Department.
 
 The goal is to build an embedded system using Embedded C and the TM4C123G LaunchPad that gathers real-time GPS data and displays nearby landmarks when approached. The system should function autonomously and provide accurate, updated location data while in motion.
